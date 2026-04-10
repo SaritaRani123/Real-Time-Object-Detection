@@ -6,3 +6,5 @@ pandas
 numpy
 torch
 torchvision
+streamlit
+ultralytics
